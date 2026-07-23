@@ -1,0 +1,6 @@
+{
+  "name": "Navodya Kidney & Multispecialty Hospital",
+  "description": "Comprehensive healthcare, specialized kidney & dialysis care, online appointment booking, and patient health resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
